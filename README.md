@@ -1,2 +1,3 @@
-# Machine-learning-tutorial
+# Machine-learning
+
 This is a continuously updated repository that documents personal journey on learning data science, machine learning related topics. 
